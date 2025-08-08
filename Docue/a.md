@@ -55,3 +55,5 @@ Node has park cross.
 Node has major.
 
 Node is any refer.
+
+Node has none state.
